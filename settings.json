@@ -1,0 +1,91 @@
+{
+  "terminal.background": "#090300",
+  "terminal.foreground": "#A5A2A2",
+  "terminalCursor.background": "#A5A2A2",
+  "terminalCursor.foreground": "#A5A2A2",
+  "terminal.ansiBlack": "#090300",
+  "terminal.ansiBlue": "#01A0E4",
+  "terminal.ansiBrightBlack": "#5C5855",
+  "terminal.ansiBrightBlue": "#01A0E4",
+  "terminal.ansiBrightCyan": "#B5E4F4",
+  "terminal.ansiBrightGreen": "#01A252",
+  "terminal.ansiBrightMagenta": "#A16A94",
+  "terminal.ansiBrightRed": "#DB2D20",
+  "terminal.ansiBrightWhite": "#F7F7F7",
+  "terminal.ansiBrightYellow": "#FDED02",
+  "terminal.ansiCyan": "#B5E4F4",
+  "terminal.ansiGreen": "#01A252",
+  "terminal.ansiMagenta": "#A16A94",
+  "terminal.ansiRed": "#DB2D20",
+  "terminal.ansiWhite": "#A5A2A2",
+  "terminal.ansiYellow": "#FDED02",
+  "workbench.colorTheme": "Evondev Dracula High Contrast",
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 12.5,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "workbench.iconTheme": "material-icon-theme",
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+    "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path.windows": "C:\\Users\\tutka\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    "vscode-kubernetes.minikube-path.windows": "C:\\Users\\tutka\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.codeLensFontFamily": "\"Fira Code\"",
+  "emmet.triggerExpansionOnTab": true,
+  "files.association": {
+    "*html": "html"
+  },
+  "emmet.excludeLanguages": [],
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "html": "html",
+    "css": "css",
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "editor.cursorBlinking": "expand",
+  "prettier.eslintIntegration": false,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.renderWhitespace": "all",
+
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#05f93a",
+    "terminalCursor.foreground": "#ffff00",
+    "terminal.foreground": "#05f93a"
+  },
+  "files.associations": {
+    "*.env.development": "env",
+    "*.env.production": "env"
+  },
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  " editor.action.quickFix": true,
+
+}
