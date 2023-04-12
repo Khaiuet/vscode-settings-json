@@ -86,6 +86,6 @@
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  " editor.action.quickFix": true,
+  " editor.action.quickFix": false,
 
 }
